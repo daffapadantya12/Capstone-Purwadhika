@@ -1,6 +1,8 @@
 
 # Stock Management Program
 
+Daffa Hanif Padantya - JCDS 2502
+
 ## Overview
 
 This program simulates a stock portfolio management system, allowing users to monitor a stock watchlist, manage a portfolio, and interact with stock prices. It provides functionalities for viewing, buying, and selling stocks while simulating stock price updates.
